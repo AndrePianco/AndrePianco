@@ -2,7 +2,7 @@
 
 ###
 
-<h6 align="left">Me chamo André, curso o 7º período de Ciências da Computação na UEPB. No momento estou estudando plataformas de versionamento e bancos de dados. Tenho como foco desenvolvimento de software back end e pretendo me especializar na área.</h6>
+<h6 align="left">Me chamo André, curso o 8º período de Ciências da Computação na UEPB. No momento estou estudando plataformas de versionamento e bancos de dados. Tenho como foco desenvolvimento de software back end e pretendo me especializar na área.</h6>
 
 ###
 
